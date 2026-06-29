@@ -1,0 +1,65 @@
+body{
+  background:#0f172a;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+/* AI Card */
+.ai-card{
+  background:#1e293b;
+  border-radius:12px;
+  padding:20px;
+  margin:10px 0;
+  border:1px solid #334155;
+}
+
+/* Dropdown fields */
+.ai-input{
+  background:#0f172a;
+  color:white;
+  border:1px solid #334155;
+  padding:8px 12px;
+  border-radius:6px;
+  outline:none;
+}
+
+.ai-input option{
+  background:#0f172a;
+  color:white;
+}
+
+/* Button */
+.ai-button{
+  background:#0ea5e9;
+  border:none;
+  padding:8px 16px;
+  border-radius:6px;
+  color:white;
+  cursor:pointer;
+}
+
+.ai-button:hover{
+  background:#0284c7;
+}
+
+/* Signals */
+.ai-buy{
+  color:#22c55e;
+  font-weight:bold;
+}
+
+.ai-sell{
+  color:#ef4444;
+  font-weight:bold;
+}
+
+.ai-hold{
+  color:#eab308;
+  font-weight:bold;
+}
+
+/* Title */
+.ai-title{
+  color:#38bdf8;
+  margin-bottom:15px;
+}
