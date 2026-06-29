@@ -2,7 +2,7 @@
 
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
-import { fetchPrediction } from "../api/aiapi";
+import { fetchPrediction } from "../api/aiApi";
 import React, { useEffect, useState, useRef } from "react";
 import {
   Chart as ChartJS,
